@@ -2,7 +2,7 @@
 
 ## نحوه نصب
 ```bash
-git clone https://github.com/persiancyber/NEW && cd tabchi && chmod 777 install.sh && chmod 777 telegamer.sh && ./install.sh && lua creator.lua
+git clone https://github.com/persiancyber/NEW && cd NEW && chmod 777 install.sh && chmod 777 telegamer.sh && ./install.sh && lua creator.lua
 ```
 ## ساخت ربات!
 ```
